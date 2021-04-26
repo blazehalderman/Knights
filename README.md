@@ -1,6 +1,22 @@
 # Knights
 a program to solve logic puzzles ie. Knights and Knaves
 
+```
+$ python puzzle.py
+Puzzle 0
+    A is a Knave
+Puzzle 1
+    A is a Knave
+    B is a Knight
+Puzzle 2
+    A is a Knave
+    B is a Knight
+Puzzle 3
+    A is a Knight
+    B is a Knave
+    C is a Knight
+```
+
 In 1978, logician Raymond Smullyan published “What is the name of this book?”, a book of logical puzzles. Among the puzzles in the book were a class of puzzles that Smullyan called “Knights and Knaves” puzzles.
 
 In a Knights and Knaves puzzle, the following information is given: Each character is either a knight or a knave. A knight will always tell the truth: if knight states a sentence, then that sentence is true. Conversely, a knave will always lie: if a knave states a sentence, then that sentence is false.
